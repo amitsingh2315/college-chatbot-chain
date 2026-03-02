@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+pdf_db/
+pdf_db_chain/
+pdf_db_multipdf_chain/
+chat_db/
+chat_db_chain/
+*.pyc
+.ipynb_checkpoints/
+whatsapp_db/
+whatsapp_db_bge/
