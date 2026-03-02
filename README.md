@@ -4,6 +4,13 @@ An intelligent multi-agent chatbot that answers college-related queries using **
 
 ---
 
+<img width="1432" height="1076" alt="Screenshot 2026-02-25 104809" src="https://github.com/user-attachments/assets/b53fb3f1-d9f9-41a1-8bf6-76bbbd055df8" />
+
+
+<img width="1951" height="1771" alt="image" src="https://github.com/user-attachments/assets/82965e02-f275-4378-935a-b1e9d27431b4" />
+
+
+
 ## 📁 Project Structure
 
 ```
