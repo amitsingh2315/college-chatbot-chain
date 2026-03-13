@@ -187,7 +187,7 @@ Query → Layer 1: Exact substring match
 
 ## 👤 Author
 
-**Amit Kumar**
+**Amit Singh**
 
 B.Tech — AKGEC
 
